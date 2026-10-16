@@ -1,0 +1,55 @@
+{
+  "email": "patagoniatec@gmail.com",
+  "instagram": "",
+  "disenos": [
+    {
+      "id": "tablero",
+      "titulo": "Repuestos para tablero",
+      "categoria": "Repuestos",
+      "imagen": "tablero",
+      "descripcion": "Un ejemplo de cómo el diseño 3D puede resolver una necesidad del aula. Espacio preparado para incorporar el modelo, sus medidas y las pruebas de impresión.",
+      "material": "A definir según el uso",
+      "formato": "STL",
+      "archivo": "",
+      "estado": "Ejemplo de biblioteca"
+    },
+    {
+      "id": "vivienda",
+      "titulo": "Maqueta de vivienda",
+      "categoria": "Arquitectura",
+      "imagen": "vivienda",
+      "descripcion": "Del plano a la maqueta: una propuesta para explorar escalas, volúmenes y representación arquitectónica.",
+      "material": "A definir",
+      "formato": "STL",
+      "archivo": "",
+      "estado": "Ejemplo de biblioteca"
+    },
+    {
+      "id": "engranaje",
+      "titulo": "Engranaje didáctico",
+      "categoria": "Mecánica",
+      "imagen": "engranaje",
+      "descripcion": "Una propuesta para estudiar mecanismos y desarrollar modelos propios. Las dimensiones y tolerancias se definirán en la ficha del proyecto.",
+      "material": "A definir",
+      "formato": "STL",
+      "archivo": "",
+      "estado": "Ejemplo de biblioteca"
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Tu primera impresión",
+      "descripcion": "Preparación, nivelación y primera pieza.",
+      "imagen": "video1",
+      "url": ""
+    },
+    {
+      "titulo": "Del modelo a la pieza",
+      "descripcion": "Diseño, laminado e impresión, paso a paso.",
+      "imagen": "video2",
+      "url": ""
+    }
+  ],
+  "sponsors": [],
+  "novedades": []
+}
