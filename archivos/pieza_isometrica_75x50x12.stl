@@ -1,0 +1,282 @@
+solid pieza_isometrica_mm
+facet normal 0 0 -1
+outer loop
+vertex 0 0 0
+vertex 0 50 0
+vertex 75 50 0
+endloop
+endfacet
+facet normal 0 -0 -1
+outer loop
+vertex 75 50 0
+vertex 75 0 0
+vertex 50 0 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 75 50 0
+vertex 50 0 0
+vertex 50 12 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 75 50 0
+vertex 50 12 0
+vertex 25 12 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 0 0 0
+vertex 75 50 0
+vertex 25 12 0
+endloop
+endfacet
+facet normal 0 -0 -1
+outer loop
+vertex 25 12 0
+vertex 25 0 0
+vertex 0 0 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 0 50 12
+vertex 0 0 12
+vertex 25 0 12
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 0 50 12
+vertex 25 0 12
+vertex 25 12 12
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 50 12 12
+vertex 50 0 12
+vertex 75 0 12
+endloop
+endfacet
+facet normal -0 0 1
+outer loop
+vertex 50 12 12
+vertex 75 0 12
+vertex 75 25 12
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 25 12 12
+vertex 50 12 12
+vertex 75 25 12
+endloop
+endfacet
+facet normal 0 -0 1
+outer loop
+vertex 25 12 12
+vertex 75 25 12
+vertex 20 25 12
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 0 50 12
+vertex 25 12 12
+vertex 20 25 12
+endloop
+endfacet
+facet normal 0 -0 1
+outer loop
+vertex 20 25 12
+vertex 20 50 12
+vertex 0 50 12
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 25 0 0
+vertex 25 0 12
+vertex 0 0 12
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 0 0 12
+vertex 0 0 0
+vertex 25 0 0
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 75 0 0
+vertex 75 0 12
+vertex 50 0 12
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 50 0 12
+vertex 50 0 0
+vertex 75 0 0
+endloop
+endfacet
+facet normal 1 0 -0
+outer loop
+vertex 25 12 0
+vertex 25 12 12
+vertex 25 0 12
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 25 0 12
+vertex 25 0 0
+vertex 25 12 0
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 50 12 0
+vertex 50 12 12
+vertex 25 12 12
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 25 12 12
+vertex 25 12 0
+vertex 50 12 0
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 50 0 0
+vertex 50 0 12
+vertex 50 12 12
+endloop
+endfacet
+facet normal -1 0 -0
+outer loop
+vertex 50 12 12
+vertex 50 12 0
+vertex 50 0 0
+endloop
+endfacet
+facet normal -1 0 -0
+outer loop
+vertex 0 50 12
+vertex 0 50 0
+vertex 0 0 0
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 0 0 0
+vertex 0 0 12
+vertex 0 50 12
+endloop
+endfacet
+facet normal 1 0 -0
+outer loop
+vertex 75 50 0
+vertex 75 50 37
+vertex 75 25 37
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 75 50 0
+vertex 75 25 37
+vertex 75 25 12
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 75 50 0
+vertex 75 25 12
+vertex 75 0 12
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 75 0 12
+vertex 75 0 0
+vertex 75 50 0
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 20 50 12
+vertex 55 50 37
+vertex 75 50 37
+endloop
+endfacet
+facet normal -0 1 0
+outer loop
+vertex 20 50 12
+vertex 75 50 37
+vertex 75 50 0
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 20 50 12
+vertex 75 50 0
+vertex 0 50 0
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 0 50 0
+vertex 0 50 12
+vertex 20 50 12
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 75 25 12
+vertex 75 25 37
+vertex 55 25 37
+endloop
+endfacet
+facet normal 0 -1 -0
+outer loop
+vertex 55 25 37
+vertex 20 25 12
+vertex 75 25 12
+endloop
+endfacet
+facet normal -0.58123821 0 0.813733459
+outer loop
+vertex 20 25 12
+vertex 55 25 37
+vertex 55 50 37
+endloop
+endfacet
+facet normal -0.58123821 0 0.813733459
+outer loop
+vertex 55 50 37
+vertex 20 50 12
+vertex 20 25 12
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 75 50 37
+vertex 55 50 37
+vertex 55 25 37
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 55 25 37
+vertex 75 25 37
+vertex 75 50 37
+endloop
+endfacet
+endsolid pieza_isometrica_mm

@@ -3,6 +3,18 @@
   "instagram": "",
   "disenos": [
     {
+      "id": "pieza-isometrica-75x50x12",
+      "titulo": "Pieza isométrica con cuña",
+      "categoria": "Mecánica",
+      "imagen": "pieza-isometrica",
+      "imagenUrl": "assets/pieza-isometrica.svg",
+      "descripcion": "Pieza didáctica convertida desde SketchUp. Base de 75 × 50 mm y 12 mm de espesor; altura total con cuña: 37 mm. Importar el STL en milímetros, a escala 100 %. Malla cerrada verificada; impresión física pendiente.",
+      "material": "A definir según el uso y la impresora",
+      "formato": "STL",
+      "archivo": "archivos/pieza_isometrica_75x50x12.stl",
+      "estado": "Descarga disponible · 75 × 50 × 37 mm"
+    },
+    {
       "id": "tablero",
       "titulo": "Repuestos para tablero",
       "categoria": "Repuestos",
